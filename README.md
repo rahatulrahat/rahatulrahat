@@ -1,16 +1,31 @@
-<h1 align="center">Hi 👋, I'm Md. Rahatul Islam</h1>
-<h3 align="center">Web Developer</h3>
+### Hi there 👋, i am Md. Rahatul Islam
+#### Web Developer
+![Web Developer](https://www.facebook.com/photo/?fbid=6643114322423045&set=a.420651548002718)
 
-- 🌱 I’m currently learning **React**
+Be honest and always prioritize your client
 
-- 📫 How to reach me **rahat.r.islam@gmail.com**
+Skills: REACT / JS / HTML / CSS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rahatul rahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahatul rahat" height="30" width="40" /></a>
-<a href="https://instagram.com/rahatul_rahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahatul_rahat" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on HTML, CSS, Java script 
+- 🌱 I’m currently learning Web Developing 
+- 📫 How to reach me: rahat.r.islam@gmail.com 
+- ⚡ Fun fact: I think i am funny 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahatulrahat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rahatul rahat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rahatul_rahat/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahatulrahat)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahatulrahat)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahatulrahat&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahatulrahat)  
+
+![GitHub metrics](https://metrics.lecoq.io/rahatulrahat)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rahatulrahat)  
+
+![Profile views](https://gpvc.arturio.dev/rahatulrahat)  
